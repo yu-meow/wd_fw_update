@@ -4,7 +4,6 @@ version = "2.3.0"
 description = "Updates the firmware of Western Digital SSDs"
 requires-python = ">=3.8"
 dependencies = [
-    "importlib-metadata",
     "inquirer >=3,<4",
     "requests >=2.2,<3"
 ]

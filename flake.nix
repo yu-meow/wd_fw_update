@@ -75,6 +75,7 @@
             packages = [
               virtualenv
               pkgs.uv
+              pkgs.git
             ];
             env = {
               UV_NO_SYNC = "1";
